@@ -1,1 +1,1 @@
-A custom WordPress theme is built based on ACF plugin
+A custom WordPress theme is built based on Underscore and ACF plugin
