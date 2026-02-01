@@ -55,7 +55,7 @@ Place the folder inside wp-content/themes/
 
 From WP Admin → Appearance → Themes → Activate WarrentHill Theme
 
-### Development
+## 🛠 Development
 
 If you plan to edit styles or scripts:
 
@@ -77,7 +77,7 @@ Watch for changes
    npm run dev
 ```
 
-### Structure
+## 🧩 Structure
 
 /assets/           – JS / CSS source files
 /inc/              – PHP includes (helpers, theme support)
@@ -86,7 +86,7 @@ Watch for changes
 style.css          – Theme style file
 functions.php      – Theme functions and hooks
 
-### License
+## 📄 License
 
 This project is licensed under the GPL-2.0 License — see the LICENSE file for details.
 
